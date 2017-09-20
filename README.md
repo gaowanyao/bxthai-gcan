@@ -1,7 +1,9 @@
 # bxthai
-bx.in.th API
-##npm install bxthai-gcan
-
+### bx.in.th API
+```
+npm install bxthai-gcan
+```
+```
 var BxthaiApi = require('./index.js');
 // console.log(BxthaiApi);
 
@@ -35,3 +37,4 @@ Bxthai.ticker(function(err,data){
 //
 //     console.log('\ndata: %s', JSON.stringify(data));
 // }
+```
